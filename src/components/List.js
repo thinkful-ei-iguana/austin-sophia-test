@@ -15,6 +15,5 @@ export default function List(props) {
                 </div>
                 <button className="List-add-button">+ Random Card</button>
             </section>
-
     );
 }
