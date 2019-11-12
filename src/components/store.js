@@ -38,6 +38,6 @@ export default {
     },
   }
 
-  allCard['a']
+  //allCard['a']
 
 
